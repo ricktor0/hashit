@@ -1,3 +1,5 @@
+![image](https://github.com/Ricktor0/Hashit/assets/135196573/bf84f8fa-053d-4bd8-9a6d-418ae8dc92b1)
+
 # Description
 **Hashit** is a handy tool written in python3, You can convert,encode and decode strings to different hashes and base64 encoding.
 
@@ -7,6 +9,8 @@ https://github.com/Ricktor0/Hashit.git
 cd Hashit
 python3 hashit.py
 ```
+
+
 
 
 - 👋 Hi, I’m @Ricktor0
