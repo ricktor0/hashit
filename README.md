@@ -2,8 +2,8 @@
 **Hashit** is a handy tool written in python, You can convert,encode and decode strings to different hashes and base64 encoding.
 
 # Installation
-```
-https://github.com/Ricktor0/Hashit.git
+```console
+git clone https://github.com/Ricktor0/Hashit.git
 cd Hashit
 python3 hashit.py
 ```
