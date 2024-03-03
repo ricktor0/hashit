@@ -1,17 +1,15 @@
-# Description
-**Hashit** is a handy tool written in python, You can convert,encode and decode strings to different hashes and base64 encoding.
+<div align="center">
+  <h1><code>hashit</code></h1> 
+  <p><strong><em>Convert, Encode and Decode strings to diff' hashes and base64✨</em></strong></p>
+</div>
 
-# Installation
-```console
-git clone https://github.com/Ricktor0/Hashit.git
-cd Hashit
-python3 hashit.py
+# Installation 📩
+
+```bash
+$ git clone --depth=1 https://github.com/Ricktor0/hashit
+$ cd hashit
+$ python3 hashit. 
 ```
-# Preview
-![image](https://github.com/Ricktor0/Hashit/assets/135196573/bf84f8fa-053d-4bd8-9a6d-418ae8dc92b1)
-
-
-
-- 👋 Hi, I’m @Ricktor0
-- 📫 Reach me  [vikr.am121](https://www.instagram.com/vikr.am121/) on instagram and [Vikram Bastola](https://www.facebook.com/profile.php?id=100042768861506) on facebook
-  
+&nbsp;
+<hr>
+<p align="center">Copyright &copy; 2024 <a href="https://www.facebook.com/profile.php?id=100042768861506" target="_blank">Vikram Bastola</a>
